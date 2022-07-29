@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BackJon_1260 {
+public class BackJoon_1260 {
     public static boolean check[];
     public static int arr[][];
 
